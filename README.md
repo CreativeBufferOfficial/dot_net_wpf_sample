@@ -23,15 +23,15 @@ Install all package from Nuget
 
 ## Usage
 
-Above package use for Entities,hosting,dropdown menus and loading
+Above packages use for Entities,hosting,dropdown menus and loading
 
 ## Configuration
 
-Configure dat context in main applicayon (APP.xml)
+Configure data context in main application (APP.xml)
 
 ## Contributing
 
-Guidelines for contributing to the project.
+MVVM approach is must to build project
 
 ## License
 
